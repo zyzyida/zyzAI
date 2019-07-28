@@ -1,0 +1,2 @@
+# zyzAI
+zyzyida AI project
